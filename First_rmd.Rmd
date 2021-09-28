@@ -1,12 +1,13 @@
 ---
 title: "Simple document"
 output: 
-  html_document:
+  github_document
+---
+$  html_document:
     toc: TRUE
     toc_float: TRUE
-    code_folding: hide
----
-
+    code_folding: hide$
+    
 I'm an R Markdown document! 
 
 # Section 1
